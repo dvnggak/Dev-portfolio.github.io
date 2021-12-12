@@ -10,3 +10,7 @@ body {
 .projects {
     background-color: #D1E8E4;
 };
+
+section {
+    padding-top: 5rem;
+}
