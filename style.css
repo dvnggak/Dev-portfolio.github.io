@@ -1,8 +1,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
-}
+};
 
 .jumbotron {
-    padding: 2rem 1rem;
-    background-color: #e2edff;
-}
+    padding-top: 5rem;
+    background-color: #D1E8E4;
+};
+
+.projects {
+    background-color: #D1E8E4;
+};
